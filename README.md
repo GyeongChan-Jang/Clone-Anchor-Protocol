@@ -29,6 +29,9 @@
 > [Anchor Protocol](https://app.anchorprotocol.com/)
 * crypto에서 대표 L1 체인중 하나인 LUNA의 가장 성공한 프로젝트입니다.
 
+## Netlify 배포
+> https://gentle-cajeta-dcdf83.netlify.app
+
 ## 선정한 이유 
 * css 레이아웃 구조가 모두 포함되어 있습니다.
   - grid, table, flex 등
